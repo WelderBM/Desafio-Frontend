@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.js": "/Desafio-Frontend/static/js/main.4c1f8e99.js",
+    "main.js": "/Desafio-Frontend/static/js/main.86352ed8.js",
     "static/media/tim-mossholder-nZ2ckk2-FNA-unsplash.png": "/Desafio-Frontend/static/media/tim-mossholder-nZ2ckk2-FNA-unsplash.5837428105445882aabc.png",
+    "static/media/camera-paisagem.jpg": "/Desafio-Frontend/static/media/camera-paisagem.f0fbbc1fc70f68f55dd8.jpg",
     "static/media/fotografia-logotipo-modelo-vermelho_1057-1785.jpg": "/Desafio-Frontend/static/media/fotografia-logotipo-modelo-vermelho_1057-1785.970545265ef533336f84.jpg",
     "index.html": "/Desafio-Frontend/index.html",
-    "main.4c1f8e99.js.map": "/Desafio-Frontend/static/js/main.4c1f8e99.js.map"
+    "main.86352ed8.js.map": "/Desafio-Frontend/static/js/main.86352ed8.js.map"
   },
   "entrypoints": [
-    "static/js/main.4c1f8e99.js"
+    "static/js/main.86352ed8.js"
   ]
 }
