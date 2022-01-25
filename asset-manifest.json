@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/desafio-frontend/static/js/main.30f304a3.js",
+    "static/media/tim-mossholder-nZ2ckk2-FNA-unsplash.png": "/desafio-frontend/static/media/tim-mossholder-nZ2ckk2-FNA-unsplash.5837428105445882aabc.png",
+    "static/media/fotografia-logotipo-modelo-vermelho_1057-1785.jpg": "/desafio-frontend/static/media/fotografia-logotipo-modelo-vermelho_1057-1785.970545265ef533336f84.jpg",
+    "index.html": "/desafio-frontend/index.html",
+    "main.30f304a3.js.map": "/desafio-frontend/static/js/main.30f304a3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.30f304a3.js"
+  ]
+}
