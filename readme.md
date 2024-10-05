@@ -1,31 +1,38 @@
-<h1 align="center">
-    Desafio para frontend - R2T Rebel Thinking Tech - Estágio
-</h1>
+<h1 align="center">Dark Login Screen</h1>
 <div align="center">
-<img src="logo.svg" alt="R2T Logo" style="margin-bottom:10px;"/>
-
-<h2>
-    Descrição
-</h2>
-
-<div style="text-align:justify;">
-<p>O desafio proposto consiste na implementação de uma interface de autenticação para um sistema fictício de acordo com o <a href="https://xd.adobe.com/view/5418f93a-05ac-4293-b071-8f340e2cc059-014b" target="_blank"> prototipo</a>, utilizando a toolkit React.</p>
-
-<p>Além da reprodução visual desta tela, também é necessário criar uma tela de autenticado, podendo esta ser de livre escolha. Todos os assets necessários para a criação da tela, estão disponíveis no link do protótipo.</p>
+<img src="./capa.png"/>
 </div>
+<div align="center"> Um login screen com tema dark </div> 
 
-<h2>
-    Entrega
-</h2>
+## Indice
 
-<div style="text-align:justify;">
-<p>A entrega do desafio deve ser realizada via <span style="font-weight:bold">pull request</span> neste repositório. Para isto, faça um fork deste repositório, crie um branch com seu nome, desenvolva seu desafio no branch, subindo quantos commits desejar. Após terminar, faça um pull request que analisaremos e entraremos em contato.</p>
-</div>
+- <a href="#funcionalidades-do-projeto">funcionalidades do projeto</a>
+- <a href="#como-rodar">Como rodar este projeto</a>
+- <a href="#tecnologias-ultilizadas">Tecnologias utilizadas</a>
+- <a href="#pessoas-autoras">Pessoas autoras</a>
+- <a href="#proximos-passos">Próximos passos</a>
 
-<h2>
-    Contato
-</h2>
-<a href="mailto:r2ttecnologiainteligente@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/></a>
-<a href="https://br.linkedin.com/company/r2t---tecnologia-inteligente"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="gmail badge"/></a>
-<a href="https://r2t.company"><img src="https://img.shields.io/badge/R2T_Rebel_Thinking_Tech-555555?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAtFBMVEX////9/f3Y19e2tbWgn5/S0dH+/v7+/f3JyMi5uLiysbHLy8vX1tbHx8e4t7e6ubq6ubnKycnR0NDIx8e9vLzKycrQ0NDX19e5t7i+vb22tLXR0dHY19i9vb21tLSioKC3trbAwMCzsrK8u7vBwMCwr6+npqbV1NTJyMm7urrCwcKysbLMy8zOzc3DwsLPzs7U1NTCwcHOzc7Hxse4trfOzs7//v7W1dazsrPQz8+ioaGysLFtZJNHAAAAAWJLR0QAiAUdSAAAAAd0SU1FB+UMEQURLbfFQOQAAACNSURBVAgdBcEJQoJQFADAEfIJqV+IoLLFwgptt325/72agZEs3xsLYCIryv3pWECYzdOiyusDwcisKROHedsJjublMZws21POijIRwfnFtLO6zAmCq3yhT2uC4Prm1rBJWyK4u394ZGjSlvDU18+ElyZV7Pr2FcLw9l7t+s0HnwhfxfK7/gEI2e9fB/4BP3gKJ9h05JQAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjEtMTItMTdUMDU6MTc6MzUrMDA6MDCS8lNdAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIxLTEyLTE3VDA1OjE3OjM1KzAwOjAw46/r4QAAAABJRU5ErkJggg==&link=https://r2t.company" alt="gmail badge"/></a>
-</div>
+<h2 id="funcionalidades-do-projeto">Funcionalidades</h2>
+
+- [x] tema dark e white, e suas transições
+- [x] mostrar e ocultar images
+- [x] GET de api de fotos
+
+<h2 id="como-rodar">Como rodar o projeto</h2>
+<a href="https://welderbm.github.io/LoginScreen-Dark/">Ver site clicando aqui</a>
+
+
+<h2 id="tecnologias-ultilizadas">Tecnologias utilizadas</h2> 
+
+1. [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+1. [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+
+<h2 id="pessoas-autoras">Pessoas autoras</h2> 
+<img alt="minha foto de perfil" src="./perfil-quadrado.JPG" width="200"/>
+welder barroso
+
+
+<h2 id="proximos-passos">Próximos passos</h2> 
+
+- [ ] deixar login funcional
